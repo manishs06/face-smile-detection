@@ -2,7 +2,6 @@
 
 A real-time face smile detection system using OpenCV and Deep Learning. This project can detect faces in real-time video streams and classify whether the person is smiling or not.
 
-[![Face Smile Detection Demo](https://img.youtube.com/vi/eC_GfTEylSw/0.jpg)](https://www.youtube.com/watch?v=eC_GfTEylSw)
 
 ## Features
 
